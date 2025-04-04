@@ -40,9 +40,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gaston202/Gaston202/output/snake.svg" alt="Snake animation" />
 
 ###
  
